@@ -1,5 +1,5 @@
-package com.coffeeorderingsystem.AbstractDecorator;
-import com.coffeeorderingsystem.BaseComponent.Coffee;
+package com.coffeeorderingsystem.DecoratorInterface;
+import com.coffeeorderingsystem.Component.Coffee;
 
 
 public abstract class CoffeeDecorator implements Coffee {

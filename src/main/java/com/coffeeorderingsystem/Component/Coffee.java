@@ -1,4 +1,4 @@
-package com.coffeeorderingsystem.BaseComponent;
+package com.coffeeorderingsystem.Component;
 
 public interface Coffee {
     String getDescription();

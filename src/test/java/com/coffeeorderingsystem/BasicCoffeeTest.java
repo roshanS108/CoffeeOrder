@@ -1,5 +1,5 @@
 package com.coffeeorderingsystem;
-import com.coffeeorderingsystem.BaseComponent.Coffee;
+import com.coffeeorderingsystem.Component.Coffee;
 import com.coffeeorderingsystem.ConcreteComponent.BasicCoffee;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,6 +1,6 @@
 package com.coffeeorderingsystem.ConcreteComponent;
 
-import com.coffeeorderingsystem.BaseComponent.Coffee;
+import com.coffeeorderingsystem.Component.Coffee;
 
 
 public class BasicCoffee implements Coffee {
@@ -18,6 +18,9 @@ public class BasicCoffee implements Coffee {
     public int getCalories() {
         return 5; // Basic coffee has minimal calories
     }
+
+
+
 }
 
 

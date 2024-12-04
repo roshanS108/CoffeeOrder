@@ -1,7 +1,7 @@
 package com.coffeeorderingsystem.ConcreteDecorator;
 
-import com.coffeeorderingsystem.AbstractDecorator.CoffeeDecorator;
-import com.coffeeorderingsystem.BaseComponent.Coffee;
+import com.coffeeorderingsystem.DecoratorInterface.CoffeeDecorator;
+import com.coffeeorderingsystem.Component.Coffee;
 
 public class MilkDecorator extends CoffeeDecorator {
     public MilkDecorator(Coffee coffee) {
